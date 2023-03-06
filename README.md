@@ -1,0 +1,2 @@
+# mynewpage
+sample pages
